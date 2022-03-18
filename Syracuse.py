@@ -5,6 +5,6 @@ def syracuse(U):
         else :
             U = U*3 + 1
         print(U)
-U = int(input("Veuillez entrer le premier terme :"))
+U = int(input("Veuillez entrer le premier terme :"))+
 print(U)
 syracuse(U)
